@@ -1,0 +1,12 @@
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/exceptions/ValidationFailedException.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/services/IncidentServiceImpl.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/hibernateUtils/HibernateUtil.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/views/iReporterDB.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/exceptions/SavingFailedException.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/services/IncidentServiceImplConsole.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/views/IncidentsView.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/enums/Status.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/models/Incident.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/enums/Type.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/views/IReporter.java
+/Users/katusiimeconrad/Desktop/Pahappa Intern/iReporterV2/src/main/java/org/pahappa/systems/services/IncidentService.java
