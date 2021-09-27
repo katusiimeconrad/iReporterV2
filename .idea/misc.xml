@@ -11,9 +11,11 @@
       </list>
     </option>
   </component>
+
   <component name="ProjectResources">
     <resource url="http://www.springframework.org/schema/tx" location="$PROJECT_DIR$" />
   </component>
+
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

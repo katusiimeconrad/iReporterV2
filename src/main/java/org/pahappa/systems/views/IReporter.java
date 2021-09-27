@@ -2,7 +2,9 @@ package org.pahappa.systems.views;
 
 import org.pahappa.systems.enums.Type;
 import org.pahappa.systems.models.Incident;
+
 import org.pahappa.systems.services.IncidentServiceImplConsole;
+
 
 import java.util.List;
 import java.util.Scanner;

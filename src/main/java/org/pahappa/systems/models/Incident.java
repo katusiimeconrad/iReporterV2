@@ -30,7 +30,6 @@ public class Incident implements Serializable {
     //private Boolean deleted;
 	//private String createdBy;
 
-
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "id")
