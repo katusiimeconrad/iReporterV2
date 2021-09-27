@@ -78,7 +78,7 @@ public class Incident implements Serializable {
 		this.createdOn = createdOn;
 	}
 
-	@Column(name = "comments")
+	@Column(name = "comments", columnDefinition = "text", length = 1000)
 	public String getComment() {
 		return comment;
 	}
